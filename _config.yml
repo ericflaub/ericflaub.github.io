@@ -11,9 +11,9 @@ title                    : "Eric's Test"
 title_separator          : "-"
 name                     : &name "Eric"
 description              : &description "personal description"
-url                      : https://ericstestsite.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ericflaub.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ericflaub/ericstestsite.github.io"
+repository               : "ericflaub/ericflaub.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
