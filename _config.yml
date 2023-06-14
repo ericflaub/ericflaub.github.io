@@ -85,7 +85,7 @@ author:
   bio              : "I am a data scientist"
   master's thesis  : "https://etd.ohiolink.edu/apexprod/rws_etd/send_file/send?accession=miami1596020889916973&disposition=inline"
   github           : "ericflaub"
-  linkedin         : "https://www.linkedin.com/in/ericlaub-/"
+  linkedin         : "ericlaub-/"
 # Reading Files
 include:
   - .htaccess
