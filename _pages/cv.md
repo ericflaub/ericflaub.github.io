@@ -12,11 +12,11 @@ redirect_from:
 Education
 ======
 * BS in Business Economics
-* MA in Economics 
-**Work experience**
+* MA in Economics
+  
+Work Experience
 ======
 * Data Scientist
-  * Github University
   * Duties included: Making graphs
  
   
