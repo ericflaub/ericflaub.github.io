@@ -13,7 +13,7 @@ Education
 ======
 * BS in Business Economics
 * MA in Economics 
-Work experience
+**Work experience**
 ======
 * Data Scientist
   * Github University
