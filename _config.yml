@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Eric's Test"
+title                    : "Eric Laub"
 title_separator          : "-"
 name                     : &name "Eric"
 description              : &description "personal description"
@@ -83,16 +83,9 @@ author:
   name             : "Eric"
   avatar           : "profile.png"
   bio              : "I am a data scientist"
-  location         : "The internet"
-
   master's thesis  : "https://etd.ohiolink.edu/apexprod/rws_etd/send_file/send?accession=miami1596020889916973&disposition=inline"
-
   github           : "ericflaub"
-
   linkedin         : "https://www.linkedin.com/in/ericlaub-/"
-
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-
 # Reading Files
 include:
   - .htaccess
