@@ -144,10 +144,10 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  Teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  Projects:
     output: true
     permalink: /:collection/:path/
   portfolio:
