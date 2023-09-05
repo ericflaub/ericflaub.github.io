@@ -9,10 +9,10 @@ author_profile: true
 
 <h2>Pages</h2>
 {% for post in site.pages %}
-https://ericflaub.github.io/
-https://ericflaub.github.io/projects/
-https://ericflaub.github.io/hobbies/
-https://ericflaub.github.io/cv/
+[Main](https://ericflaub.github.io/)
+[Projects](https://ericflaub.github.io/projects/)
+[Hobbies](https://ericflaub.github.io/hobbies/)
+[CV](https://ericflaub.github.io/cv/)
   {% include archive-single.html %}
 {% endfor %}
 
