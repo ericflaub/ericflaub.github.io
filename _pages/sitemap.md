@@ -13,6 +13,5 @@ author_profile: true
 [Projects](https://ericflaub.github.io/projects/)
 [Hobbies](https://ericflaub.github.io/hobbies/)
 [CV](https://ericflaub.github.io/cv/)
-  {% include archive-single.html %}
 {% endfor %}
 
